@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/btn_check_light_off_selected">@drawable/com_dropbox_android_btn_check_light_off_selected</item>
+	<item name="drawable/btn_check_light_on">@drawable/com_dropbox_android_btn_check_light_on</item>
+	<item name="drawable/btn_check_light_on_pressed">@drawable/com_dropbox_android_btn_check_light_on_pressed</item>
+	<item name="drawable/btn_check_light_on_selected">@drawable/com_dropbox_android_btn_check_light_on_selected</item>
+	<item name="drawable/btn_check_off_selected">@drawable/com_dropbox_android_btn_check_off_selected</item>
+	<item name="drawable/btn_check_on">@drawable/com_dropbox_android_btn_check_on</item>
+	<item name="drawable/btn_check_on_pressed">@drawable/com_dropbox_android_btn_check_on_pressed</item>
+	<item name="drawable/btn_check_on_selected">@drawable/com_dropbox_android_btn_check_on_selected</item>
+	<item name="drawable/btn_radio_off_selected">@drawable/com_dropbox_android_btn_radio_off_selected</item>
+	<item name="drawable/btn_radio_on">@drawable/com_dropbox_android_btn_radio_on</item>
+	<item name="drawable/btn_radio_on_pressed">@drawable/com_dropbox_android_btn_radio_on_pressed</item>
+	<item name="drawable/btn_radio_on_selected">@drawable/com_dropbox_android_btn_radio_on_selected</item>
+	<item name="drawable/button_green">@drawable/com_dropbox_android_button_green</item>
+	<item name="drawable/button_green_disabled">@drawable/com_dropbox_android_button_green_disabled</item>
+	<item name="drawable/button_green_focused">@drawable/com_dropbox_android_button_green_focused</item>
+	<item name="drawable/button_green_pressed">@drawable/com_dropbox_android_button_green_pressed</item>
+	<item name="drawable/gallery_item_checked">@drawable/com_dropbox_android_gallery_item_checked</item>
+	<item name="drawable/gradientbgimg">@drawable/com_dropbox_android_gradientbgimg</item>
+	<item name="drawable/ic_action_search">@drawable/com_dropbox_android_ic_action_search</item>
+	<item name="drawable/ic_menu_moreoverflow_normal_holo_light">@drawable/com_dropbox_android_ic_menu_moreoverflow_normal_holo_light</item>
+	<item name="drawable/progress_bg_holo_light">@drawable/com_dropbox_android_progress_bg_holo_light</item>
+	<item name="drawable/progress_primary_holo_light">@drawable/com_dropbox_android_progress_primary_holo_light</item>
+	<item name="drawable/progress_secondary_holo_light">@drawable/com_dropbox_android_progress_secondary_holo_light</item>
+	<item name="drawable/quickaction_arrow_active">@drawable/com_dropbox_android_quickaction_arrow_active</item>
+	<item name="drawable/quickaction_arrow_inactive">@drawable/com_dropbox_android_quickaction_arrow_inactive</item>
+	<item name="drawable/quickaction_arrow_pressed">@drawable/com_dropbox_android_quickaction_arrow_pressed</item>
+	<item name="drawable/tab_dropbox_pressed">@drawable/com_dropbox_android_tab_dropbox_pressed</item>
+	<item name="drawable/tab_favs_pressed">@drawable/com_dropbox_android_tab_favs_pressed</item>
+	<item name="drawable/tab_uploads_pressed">@drawable/com_dropbox_android_tab_uploads_pressed</item>
+	</resource-redirections>

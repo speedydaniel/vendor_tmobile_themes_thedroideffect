@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+<!-- colorsxml -->
+	<item name="color/buy_button">@color/buy_button</item>
+	<item name="color/secondary_text">@color/secondary_text</item>
+	<!-- drawables -->
+	<item name="drawable/background_gray_gradient">@drawable/background_gray_gradient</item>
+	<item name="drawable/butter_bar_background">@drawable/butter_bar_background</item>
+	<item name="drawable/play_action_button_apps">@drawable/play_action_button_apps</item>
+	<item name="drawable/play_action_button_books">@drawable/play_action_button_books</item>
+	<item name="drawable/play_action_button_magazines">@drawable/play_action_button_magazines</item>
+	<item name="drawable/play_action_button_movies">@drawable/play_action_button_movies</item>
+	<item name="drawable/play_action_button_multi">@drawable/play_action_button_multi</item>
+	<item name="drawable/play_action_button_music">@drawable/play_action_button_music</item>
+	<!-- png -->
+	
+	<item name="drawable/action_bar_bg_apps">@drawable/com_android_vending_action_bar_bg_apps</item>
+	<item name="drawable/action_bar_bg_books">@drawable/com_android_vending_action_bar_bg_books</item>
+	<item name="drawable/action_bar_bg_home">@drawable/com_android_vending_action_bar_bg_home</item>
+	<item name="drawable/action_bar_bg_mag">@drawable/com_android_vending_action_bar_bg_mag</item>
+	<item name="drawable/action_bar_bg_movies">@drawable/com_android_vending_action_bar_bg_movies</item>
+	<item name="drawable/action_bar_bg_music">@drawable/com_android_vending_action_bar_bg_music</item>
+	<item name="drawable/bg_play_warm_welcome">@drawable/com_android_vending_bg_play_warm_welcome</item>
+	<item name="drawable/bg_widget_gradient">@drawable/com_android_vending_bg_widget_gradient</item>
+	<item name="drawable/bottombar_portrait_565">@drawable/com_android_vending_bottombar_portrait_565</item>
+	<item name="drawable/btn_default_disabled_dark">@drawable/com_android_vending_btn_default_disabled_dark</item>
+	<item name="drawable/btn_default_disabled_focused_dark">@drawable/com_android_vending_btn_default_disabled_focused_dark</item>
+	<item name="drawable/btn_default_disabled_holo_dark">@drawable/com_android_vending_btn_default_disabled_holo_dark</item>
+	<item name="drawable/btn_default_focused_dark">@drawable/com_android_vending_btn_default_focused_dark</item>
+	<item name="drawable/btn_default_focused_holo_dark">@drawable/com_android_vending_btn_default_focused_holo_dark</item>
+	<item name="drawable/btn_default_normal_dark">@drawable/com_android_vending_btn_default_normal_dark</item>
+	<item name="drawable/btn_default_normal_holo_dark">@drawable/com_android_vending_btn_default_normal_holo_dark</item>
+	<item name="drawable/btn_default_pressed_dark">@drawable/com_android_vending_btn_default_pressed_dark</item>
+	<item name="drawable/btn_default_pressed_holo_dark">@drawable/com_android_vending_btn_default_pressed_holo_dark</item>
+	<item name="drawable/btn_music_play">@drawable/com_android_vending_btn_music_play</item>
+	<item name="drawable/btn_price_disabled_focused_market">@drawable/com_android_vending_btn_price_disabled_focused_market</item>
+	<item name="drawable/btn_price_disabled_market">@drawable/com_android_vending_btn_price_disabled_market</item>
+	<item name="drawable/btn_price_focused_market">@drawable/com_android_vending_btn_price_focused_market</item>
+	<item name="drawable/btn_price_normal_market">@drawable/com_android_vending_btn_price_normal_market</item>
+	<item name="drawable/btn_price_pressed_market">@drawable/com_android_vending_btn_price_pressed_market</item>
+	<item name="drawable/card_background">@drawable/com_android_vending_card_background</item>
+	<item name="drawable/card_bg_play">@drawable/com_android_vending_card_bg_play</item>
+	<item name="drawable/dialog_full_holo_light">@drawable/com_android_vending_dialog_full_holo_light</item>
+	<item name="drawable/hd_icon">@drawable/com_android_vending_hd_icon</item>
+	<item name="drawable/ic_developer_email">@drawable/com_android_vending_ic_developer_email</item>
+	<item name="drawable/ic_developer_googleplus">@drawable/com_android_vending_ic_developer_googleplus</item>
+	<item name="drawable/ic_developer_website">@drawable/com_android_vending_ic_developer_website</item>
+	<item name="drawable/ic_developer_youtube">@drawable/com_android_vending_ic_developer_youtube</item>
+	<item name="drawable/ic_empty_wish">@drawable/com_android_vending_ic_empty_wish</item>
+	<item name="drawable/ic_how_to_books">@drawable/com_android_vending_ic_how_to_books</item>
+	<item name="drawable/ic_how_to_computer">@drawable/com_android_vending_ic_how_to_computer</item>
+	<item name="drawable/ic_how_to_magazines">@drawable/com_android_vending_ic_how_to_magazines</item>
+	<item name="drawable/ic_how_to_movies">@drawable/com_android_vending_ic_how_to_movies</item>
+	<item name="drawable/ic_how_to_music">@drawable/com_android_vending_ic_how_to_music</item>
+	<item name="drawable/ic_locked_holo_light">@drawable/com_android_vending_ic_locked_holo_light</item>
+	<item name="drawable/ic_menu_close_clear_cancel_light">@drawable/com_android_vending_ic_menu_close_clear_cancel_light</item>
+	<item name="drawable/ic_menu_info_details_light">@drawable/com_android_vending_ic_menu_info_details_light</item>
+	<item name="drawable/ic_menu_market_accounts">@drawable/com_android_vending_ic_menu_market_accounts</item>
+	<item name="drawable/ic_menu_market_auto_update_off">@drawable/com_android_vending_ic_menu_market_auto_update_off</item>
+	<item name="drawable/ic_menu_market_auto_update_on">@drawable/com_android_vending_ic_menu_market_auto_update_on</item>
+	<item name="drawable/ic_menu_market_help">@drawable/com_android_vending_ic_menu_market_help</item>
+	<item name="drawable/ic_menu_market_myapps">@drawable/com_android_vending_ic_menu_market_myapps</item>
+	<item name="drawable/ic_menu_market_mybooks">@drawable/com_android_vending_ic_menu_market_mybooks</item>
+	<item name="drawable/ic_menu_market_mymagazines">@drawable/com_android_vending_ic_menu_market_mymagazines</item>
+	<item name="drawable/ic_menu_market_mymovies">@drawable/com_android_vending_ic_menu_market_mymovies</item>
+	<item name="drawable/ic_menu_market_mymusic">@drawable/com_android_vending_ic_menu_market_mymusic</item>
+	<item name="drawable/ic_menu_market_redeem">@drawable/com_android_vending_ic_menu_market_redeem</item>
+	<item name="drawable/ic_menu_market_settings">@drawable/com_android_vending_ic_menu_market_settings</item>
+	<item name="drawable/ic_menu_market_wishlist">@drawable/com_android_vending_ic_menu_market_wishlist</item>
+	<item name="drawable/ic_more_arrow_down">@drawable/com_android_vending_ic_more_arrow_down</item>
+	<item name="drawable/ic_more_arrow_right">@drawable/com_android_vending_ic_more_arrow_right</item>
+	<item name="drawable/ic_more_arrow_up">@drawable/com_android_vending_ic_more_arrow_up</item>
+	<item name="drawable/ic_more_creator_arrow">@drawable/com_android_vending_ic_more_creator_arrow</item>
+	<item name="drawable/ic_music_explore">@drawable/com_android_vending_ic_music_explore</item>
+	<item name="drawable/ic_plusone_mid_blank">@drawable/com_android_vending_ic_plusone_mid_blank</item>
+	<item name="drawable/ic_review">@drawable/com_android_vending_ic_review</item>
+	<item name="drawable/ic_selected_instrument_light">@drawable/com_android_vending_ic_selected_instrument_light</item>
+	<item name="drawable/ic_store_carrier_billing_light">@drawable/com_android_vending_ic_store_carrier_billing_light</item>
+	<item name="drawable/ic_store_credit_card_light">@drawable/com_android_vending_ic_store_credit_card_light</item>
+	<item name="drawable/ic_store_gift_card_light">@drawable/com_android_vending_ic_store_gift_card_light</item>
+	<item name="drawable/ic_store_play_balance_light">@drawable/com_android_vending_ic_store_play_balance_light</item>
+	<item name="drawable/logo_play_purchase_flow_gray_light">@drawable/com_android_vending_logo_play_purchase_flow_gray_light</item>
+	<item name="drawable/more_arrow_large_gray">@drawable/com_android_vending_more_arrow_large_gray</item>
+	<item name="drawable/phonesky_widget_bottom">@drawable/com_android_vending_phonesky_widget_bottom</item>
+	<item name="drawable/placeholder_2by1_apps">@drawable/com_android_vending_placeholder_2by1_apps</item>
+	<item name="drawable/placeholder_2by1_books">@drawable/com_android_vending_placeholder_2by1_books</item>
+	<item name="drawable/placeholder_2by1_magazines">@drawable/com_android_vending_placeholder_2by1_magazines</item>
+	<item name="drawable/placeholder_2by1_movies">@drawable/com_android_vending_placeholder_2by1_movies</item>
+	<item name="drawable/placeholder_2by1_music">@drawable/com_android_vending_placeholder_2by1_music</item>
+	<item name="drawable/plus_chip_close">@drawable/com_android_vending_plus_chip_close</item>
+	<item name="drawable/plus_circle">@drawable/com_android_vending_plus_circle</item>
+	<item name="drawable/plus_ic_acl_only_you">@drawable/com_android_vending_plus_ic_acl_only_you</item>
+	<item name="drawable/plus_ic_add_circles">@drawable/com_android_vending_plus_ic_add_circles</item>
+	<item name="drawable/plus_ic_search_api_holo_light">@drawable/com_android_vending_plus_ic_search_api_holo_light</item>
+	<item name="drawable/plus_list_circle">@drawable/com_android_vending_plus_list_circle</item>
+	<item name="drawable/plus_list_circle_hidden">@drawable/com_android_vending_plus_list_circle_hidden</item>
+	<item name="drawable/plus_white_button">@drawable/com_android_vending_plus_white_button</item>
+	<item name="drawable/popup_selector_bg">@drawable/com_android_vending_popup_selector_bg</item>
+	<item name="drawable/widget_preview_jfy">@drawable/widget_preview_jfy</item>
+	<item name="drawable/widget_preview_library">@drawable/widget_preview_library</item>
+	<item name="drawable/play_checker_bg">@drawable/play_checker_bg</item>
+	<!-- colors -->
+	<item name="color/details_review_source_text">@color/details_review_source_text</item>
+	<item name="color/black_transparent">@color/black_transparent</item>
+	<item name="color/grey">@color/grey</item>
+	<item name="color/darkgrey">@color/darkgrey</item>
+	<item name="color/disabled_black">@color/disabled_black</item>
+	<item name="color/disabled_grey">@color/disabled_grey</item>
+	<item name="color/tos_text_color">@color/tos_text_color</item>
+	<item name="color/account_selector_background">@color/account_selector_background</item>
+	<item name="color/page_error_background">@color/page_error_background</item>
+	<item name="color/page_error_text_color">@color/page_error_text_color</item>
+	<item name="color/title_background">@color/title_background</item>
+	<item name="color/translucent_dark_separator_line">@color/translucent_dark_separator_line</item>
+	<item name="color/translucent_separator_line">@color/translucent_separator_line</item>
+	<item name="color/permissions_secondary_foreground">@color/permissions_secondary_foreground</item>
+	<item name="color/apps_primary">@color/apps_primary</item>
+	<item name="color/books_primary">@color/books_primary</item>
+	<item name="color/movies_primary">@color/movies_primary</item>
+	<item name="color/music_primary">@color/music_primary</item>
+	<item name="color/magazines_primary">@color/magazines_primary</item>
+	<item name="color/multi_primary">@color/multi_primary</item>
+	<item name="color/apps_secondary">@color/apps_secondary</item>
+	<item name="color/books_secondary">@color/books_secondary</item>
+	<item name="color/movies_secondary">@color/movies_secondary</item>
+	<item name="color/music_secondary">@color/music_secondary</item>
+	<item name="color/magazines_secondary">@color/magazines_secondary</item>
+	<item name="color/multi_secondary">@color/multi_secondary</item>
+	<item name="color/billing_form_background">@color/billing_form_background</item>
+	<item name="color/loading_background">@color/loading_background</item>
+	<item name="color/corpus_selector_active">@color/corpus_selector_active</item>
+	<item name="color/setup_wizard_title_color">@color/setup_wizard_title_color</item>
+	<item name="color/setup_wizard_divider_color">@color/setup_wizard_divider_color</item>
+	<item name="color/song_highlighted_background">@color/song_highlighted_background</item>
+	<item name="color/video_preview_background">@color/video_preview_background</item>
+	<item name="color/review_histogram_bar">@color/review_histogram_bar</item>
+	<item name="color/screenshot_edge_fade">@color/screenshot_edge_fade</item>
+	<item name="color/hero_video_overlay">@color/hero_video_overlay</item>
+	<item name="color/season_switching_overlay">@color/season_switching_overlay</item>
+	<item name="color/tipper_sticker_explicit">@color/tipper_sticker_explicit</item>
+	<item name="color/tipper_sticker_edited">@color/tipper_sticker_edited</item>
+	<item name="color/screenshot_background">@color/screenshot_background</item>
+	<item name="color/reviews_filtering_color">@color/reviews_filtering_color</item>
+	<item name="color/metadata_overlay_background">@color/metadata_overlay_background</item>
+	<item name="color/explorer_text_shadow">@color/explorer_text_shadow</item>
+	<item name="color/explorer_glow_background">@color/explorer_glow_background</item>
+	<item name="color/explorer_glow_foreground">@color/explorer_glow_foreground</item>
+	<item name="color/explorer_line_foreground">@color/explorer_line_foreground</item>
+	<item name="color/explorer_get_track">@color/explorer_get_track</item>
+	<item name="color/now_playing_widget_bg">@color/now_playing_widget_bg</item>
+	<item name="color/consumption_item_added">@color/consumption_item_added</item>
+	<item name="color/package_malware_title_color">@color/package_malware_title_color</item>
+	<item name="color/package_malware_text_color">@color/package_malware_text_color</item>
+	<item name="color/credit_card_invalid_text_color">@color/credit_card_invalid_text_color</item>
+	<item name="color/play_fg_primary">@color/play_fg_primary</item>
+	<item name="color/play_fg_secondary">@color/play_fg_secondary</item>
+	<item name="color/play_fg_details_secondary">@color/play_fg_details_secondary</item>
+	<item name="color/play_fg_tertiary">@color/play_fg_tertiary</item>
+	<item name="color/play_fg_purchase_secondary">@color/play_fg_purchase_secondary</item>
+	<item name="color/play_fg_tabs">@color/play_fg_tabs</item>
+	<item name="color/play_avatar_outline">@color/play_avatar_outline</item>
+	<item name="color/play_main_background">@color/play_main_background</item>
+	<item name="color/play_tab_strip_bottom">@color/play_tab_strip_bottom</item>
+	<item name="color/play_tab_strip_side">@color/play_tab_strip_side</item>
+	<item name="color/play_reason_separator">@color/play_reason_separator</item>
+	<item name="color/play_dismissed_overlay">@color/play_dismissed_overlay</item>
+	<item name="color/play_banner_light_fg">@color/play_banner_light_fg</item>
+	<item name="color/play_banner_dark_fg">@color/play_banner_dark_fg</item>
+	<item name="color/play_warm_welcome_text_box_bg">@color/play_warm_welcome_text_box_bg</item>
+	<item name="color/clear">@color/clear</item>
+	<item name="color/plus_audience_selection_header_color">@color/plus_audience_selection_header_color</item>
+	<item name="color/plus_audience_selection_highlight_color">@color/plus_audience_selection_highlight_color</item>
+	<item name="color/plus_suggest_header_color">@color/plus_suggest_header_color</item>
+	<item name="color/plus_people_suggest_title_divider">@color/plus_people_suggest_title_divider</item>
+	<item name="color/plus_people_suggest_title_divider_shadow">@color/plus_people_suggest_title_divider_shadow</item>
+	<item name="color/plus_audience_selection_item_background_normal">@color/plus_audience_selection_item_background_normal</item>
+	<item name="color/plus_audience_selection_item_background_hidden">@color/plus_audience_selection_item_background_hidden</item>
+	<!-- styles -->
+	<item name="style/BaseText">@style/com_android_vending_BaseText</item>
+	<item name="style/DetailsPage_SummaryText">@style/com_android_vending_DetailsPage_SummaryText</item>
+	<item name="style/DetailsPage_FooterButton">@style/com_android_vending_DetailsPage_FooterButton</item>
+	<item name="style/WarmWelcomeButton">@style/com_android_vending_WarmWelcomeButton</item>
+	<item name="style/InstrumentTheme">@style/com_android_vending_InstrumentTheme</item>
+	<item name="style/common.Activity.Light">@style/com_android_vending_common.Activity.Light</item>
+	<item name="style/common.Activity.Light.Dialog">@style/com_android_vending_common.Activity.Light.Dialog</item>
+	<item name="style/common.Activity.Light.Suggest">@style/com_android_vending_common.Activity.Light.Suggest</item>
+	<item name="style/FinskyLightDialogTheme">@style/com_android_vending_FinskyLightDialogTheme</item>
+	</resource-redirections>

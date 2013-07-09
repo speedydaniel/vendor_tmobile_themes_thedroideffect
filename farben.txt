@@ -1,0 +1,5 @@
+ed264d rot
+ffc355 gelb
+9ec338 grün
+3CB2F6 blau
+1D1D1D schwarz

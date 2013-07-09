@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@*android:id/background" android:drawable="@drawable/pl_solidexplorer_progress_bar_bg_black" />
+    <item android:id="@*android:id/secondaryProgress">
+        <clip>
+            <shape>
+                <corners android:radius="5.0dip" />
+                <gradient android:startColor="#80D4D4D4" android:endColor="#a0D2D2D2" android:angle="270.0" android:centerY="0.75" android:centerColor="#80CCCCCC" />
+            </shape>
+        </clip>
+    </item>
+    <item android:id="@*android:id/progress">
+        <clip android:drawable="@drawable/pl_solidexplorer_progress_bar_p_light" />
+    </item>
+</layer-list>

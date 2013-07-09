@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/timepicker_down_disabled">@drawable/framework_res_numberpicker_down_disabled</item>
+	<item name="drawable/timepicker_down_disabled_focused">@drawable/framework_res_numberpicker_down_disabled_focused</item>
+	<item name="drawable/timepicker_down_normal">@drawable/framework_res_numberpicker_down_normal</item>
+	<item name="drawable/timepicker_down_pressed">@drawable/framework_res_numberpicker_down_pressed</item>
+	<item name="drawable/timepicker_down_selected">@drawable/framework_res_numberpicker_down_selected</item>
+	<item name="drawable/timepicker_input_disabled">@drawable/framework_res_numberpicker_input_disabled</item>
+	<item name="drawable/timepicker_input_normal">@drawable/framework_res_numberpicker_input_normal</item>
+	<item name="drawable/timepicker_input_pressed">@drawable/framework_res_numberpicker_input_pressed</item>
+	<item name="drawable/timepicker_input_selected">@drawable/framework_res_numberpicker_input_selected</item>
+	<item name="drawable/timepicker_up_disabled">@drawable/framework_res_numberpicker_up_disabled</item>
+	<item name="drawable/timepicker_up_disabled_focused">@drawable/framework_res_numberpicker_up_disabled_focused</item>
+	<item name="drawable/timepicker_up_normal">@drawable/framework_res_numberpicker_up_normal</item>
+	<item name="drawable/timepicker_up_pressed">@drawable/framework_res_numberpicker_up_pressed</item>
+	<item name="drawable/timepicker_up_selected">@drawable/framework_res_numberpicker_up_selected</item>
+
+</resource-redirections>

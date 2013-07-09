@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/bg_button_normal">@drawable/com_android_launcher_btn_cling_normal</item>
+	<item name="drawable/bg_button_pressed">@drawable/com_android_launcher_btn_cling_pressed</item>
+	<item name="drawable/btn_cling_normal">@drawable/com_android_launcher_btn_cling_normal</item>
+	<item name="drawable/btn_cling_pressed">@drawable/com_android_launcher_btn_cling_pressed</item>
+	<item name="drawable/scrubber_control_selector_holo">@drawable/framework_res_scrubber_control_selector_holo</item>
+	<item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
+	<item name="drawable/scrubber">@drawable/com_google_android_youtube_scrubber</item>
+
+scrubber
+</resource-redirections>

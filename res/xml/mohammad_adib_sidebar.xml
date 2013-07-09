@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/s">@drawable/mohammad_adib_sidebar_s</item>
+</resource-redirections>

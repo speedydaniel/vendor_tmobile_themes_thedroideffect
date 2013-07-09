@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
+	<item name="drawable/background_holo_light">@drawable/background_holo_light</item>
+	<item name="drawable/ic_launcher">@drawable/com_brewcrewfoo_performance_ic_launcher</item>
+	<item name="drawable/titleimage">@drawable/com_brewcrewfoo_performance_titleimage</item>
+	<item name="pc_cat_gray">@color/pc_cat_gray</item>
+	<item name="pc_light_gray">@color/pc_light_gray</item>
+	<item name="pc_gray">@color/pc_gray</item>
+	<item name="pc_blue">@color/pc_blue</item>
+	<item name="pc_white">@color/pc_white</item>
+	<item name="pc_black">@color/pc_black</item>
+
+
+</resource-redirections>
