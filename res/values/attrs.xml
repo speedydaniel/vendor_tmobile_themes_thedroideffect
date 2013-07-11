@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <attr name="textColorPrimaryInverse" format="reference|color" />
     <attr name="finskyButtonBarStyle" format="reference" />
     <attr name="finskyButtonBarButtonStyle" format="reference" />
     <attr name="windowContentOverlay" format="reference" />
@@ -61,4 +60,5 @@
     <attr name="list_item_data_width_weight" format="integer" />
     <attr name="list_item_label_width_weight" format="integer" />
     <attr name="favorites_padding_bottom" format="dimension" />
+    <attr name="textColorPrimaryInverse" format="reference|color" />
 </resources>

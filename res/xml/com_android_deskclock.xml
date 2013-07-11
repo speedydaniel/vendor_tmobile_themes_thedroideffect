@@ -67,12 +67,9 @@
 	<item name="drawable/clock_selector">@drawable/clock_selector</item>
 	<item name="drawable/header_bg">@drawable/header_bg</item>
 	<item name="drawable/header_bg_bar">@drawable/header_bg_bar</item>
-
-	<item name="drawable/holo_selector_nonfocusable">@drawable/holo_selector_nonfocusable</item>
 	<item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
-	<item name="drawable/notification_bg">@drawable/com_android_deskclock_notification_bg</item>
-	<item name="style/small_bold">@style/small_bold</item>
-	<item name="style/medium_bold">@style/medium_bold</item>
-	<item name="style/big_bold">@style/big_bold</item>
+	<item name="drawable/notification_bg">@drawable/com_google_android_deskclock_notification_bg</item>
+
+	
 </resource-redirections>

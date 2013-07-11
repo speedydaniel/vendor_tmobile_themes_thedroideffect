@@ -6,6 +6,12 @@
 	<item name="drawable/grip_bar_land">@drawable/grip_bar_land</item>
 	<item name="drawable/grip_bar_port">@drawable/grip_bar_port</item>
 	<item name="drawable/matrix_background">@drawable/matrix_background</item>
+	<item name="drawable/advanced">@drawable/advanced</item>
+	<item name="drawable/graph">@drawable/graph</item>
+	<item name="drawable/matrix">@drawable/matrix</item>
+	<item name="drawable/simple">@drawable/simple</item>
+	<item name="drawable/clear_history">@drawable/clear_history</item>
+	<item name="drawable/function">@drawable/function</item>
 	<item name="drawable/ic_menu_overflow">@drawable/com_android_contacts_ic_menu_overflow</item>
 	<item name="drawable/btn_keyboard_key_dark_normal_holo">@drawable/com_android_calculator2_btn_keyboard_key_dark_normal_holo</item>
 	<item name="drawable/btn_keyboard_key_dark_pressed_holo">@drawable/com_android_calculator2_btn_keyboard_key_dark_pressed_holo</item>

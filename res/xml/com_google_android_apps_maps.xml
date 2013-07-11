@@ -5,5 +5,5 @@
     <item name="style/Theme.Fullscreen">@style//com_google_android_apps_maps_Theme.Fullscreen</item>
     <item name="style/Theme.Light.NoTitleBar">@android:style//Theme.Holo.NoActionBar</item>
     <item name="style/Theme.Light.SearchBarHeader">@android:style//Theme.SearchBarHeader</item>
-    <item name="color/black">@color/pc_light_gray</item>
+    <item name="color/black">@color/holo_blue_light</item>
 </resource-redirections>

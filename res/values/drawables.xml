@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<item type="drawable" name="screen_background_light">#ff3CB2F6</item>
-	<item type="drawable" name="intruder_bg_pressed">#ff7F7F7F</item>
+	<item type="drawable" name="intruder_bg_pressed">#ff3CB2F6</item>
+	<item type="drawable" name="nav_bar_bg">#ff000000</item>
 	<item type="drawable" name="notification_header_bg">#c5000000</item>
 	<item type="drawable" name="notification_icon_area_smoke">#c5000000</item>
 	<item type="drawable" name="notification_item_background_color">#c5000000</item>
-	<item type="drawable" name="notification_item_background_color_pressed">#ff666666</item>
-	<item type="drawable" name="notification_item_background_legacy_color">#ffC0C0C0</item>
-	<item type="drawable" name="notification_number_text_color">#ff3CB2F6</item>
+	<item type="drawable" name="notification_item_background_color_pressed">#7f3CB2F6</item>
+	<item type="drawable" name="notification_item_background_legacy_color">#7f3CB2F6</item>
+	<item type="drawable" name="notification_number_text_color">#ffffffff</item>
 	<item type="drawable" name="notification_template_icon_bg">#c5000000</item>
 	<item type="drawable" name="notification_template_icon_low_bg">#c5000000</item>
-	<item type="drawable" name="notification_tracking_bg">#c5000000</item>
 	<item type="drawable" name="recents_callout_line">#99ffffff</item>
+	<item type="drawable" name="status_bar_background">#ff000000</item>
 	<item type="drawable" name="status_bar_notification_row_background_color">#c5000000</item>
 	<item type="drawable" name="status_bar_recents_app_thumbnail_background">#c5000000</item>
 	<item type="drawable" name="status_bar_recents_background_solid">#c5000000</item>
@@ -19,5 +19,5 @@
 	<!-- mms drawable -->
 	<item type="drawable" name="class_zero_background">#7f000000</item>
 	<item type="drawable" name="text_color_red">#ffff4444</item>
-	<item type="drawable" name="text_color_black">#ff1D1D1D</item>
+	<item type="drawable" name="text_color_black">#ff000000</item>
 </resources>

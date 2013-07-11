@@ -29,7 +29,6 @@
 	<item name="drawable/play_action_button_multi">@drawable/play_action_button_multi</item>
 	<item name="drawable/play_action_button_music">@drawable/play_action_button_music</item>
 	<!-- png -->
-	
 	<item name="drawable/action_bar_bg_apps">@drawable/com_android_vending_action_bar_bg_apps</item>
 	<item name="drawable/action_bar_bg_books">@drawable/com_android_vending_action_bar_bg_books</item>
 	<item name="drawable/action_bar_bg_home">@drawable/com_android_vending_action_bar_bg_home</item>

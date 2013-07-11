@@ -1,0 +1,16 @@
+# Can ignore specific files
+.properties
+my.properties
+# Use wildcards as well
+*~
+*.swp
+
+# Can also ignore all directories and files in a directory.
+tmp/**/* 
+res-final/
+bin/
+libs/
+
+
+#JAVA_HOME=/usr/local/jdk1.6.0_32
+
