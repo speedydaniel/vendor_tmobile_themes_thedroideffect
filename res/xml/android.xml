@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<!-- xml -->
+	
 	<item name="drawable/background_holo_light">@drawable/background_holo_light</item>
 	<item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
 	<item name="drawable/progress_horizontal">@drawable/framework_res_progress_horizontal</item>
+	<item name="drawable/progress_indeterminate_horizontal_holo">@drawable/framework_res_progress_horizontal</item>
 	<item name="drawable/progress_horizontal_holo_light">@drawable/framework_res_progress_horizontal_holo_light</item>
 	<item name="drawable/progress_horizontal_holo_dark">@drawable/framework_res_progress_horizontal_holo_dark</item>
 	<item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
