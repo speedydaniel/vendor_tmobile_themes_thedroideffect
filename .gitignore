@@ -10,6 +10,7 @@ tmp/**/*
 res-final/
 bin/
 libs/
+ignored/
 
 
 #JAVA_HOME=/usr/local/jdk1.6.0_32
