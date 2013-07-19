@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<!-- xml -->
-	
+	<item name="drawable/switch_inner_holo_dark">@drawable/switch_inner_holo_dark</item>
+    <item name="drawable/switch_track_holo_dark">@drawable/switch_track_holo_dark</item>
 	<item name="drawable/background_holo_light">@drawable/background_holo_light</item>
 	<item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
 	<item name="drawable/progress_horizontal">@drawable/framework_res_progress_horizontal</item>
@@ -438,20 +439,6 @@
 	<item name="drawable/spinner_white_16">@drawable/framework_res_spinner_white_16</item>
 	<item name="drawable/spinner_white_48">@drawable/framework_res_spinner_white_48</item>
 	<item name="drawable/spinner_white_76">@drawable/framework_res_spinner_white_76</item>
-	<item name="drawable/switch_bg_disabled_holo_dark">@drawable/framework_res_switch_bg_disabled_holo_dark</item>
-	<item name="drawable/switch_bg_disabled_holo_light">@drawable/framework_res_switch_bg_disabled_holo_light</item>
-	<item name="drawable/switch_bg_focused_holo_dark">@drawable/framework_res_switch_bg_focused_holo_dark</item>
-	<item name="drawable/switch_bg_focused_holo_light">@drawable/framework_res_switch_bg_focused_holo_light</item>
-	<item name="drawable/switch_bg_holo_dark">@drawable/framework_res_switch_bg_holo_dark</item>
-	<item name="drawable/switch_bg_holo_light">@drawable/framework_res_switch_bg_holo_light</item>
-	<item name="drawable/switch_thumb_activated_holo_dark">@drawable/framework_res_switch_thumb_activated_holo_dark</item>
-	<item name="drawable/switch_thumb_activated_holo_light">@drawable/framework_res_switch_thumb_activated_holo_light</item>
-	<item name="drawable/switch_thumb_disabled_holo_dark">@drawable/framework_res_switch_thumb_disabled_holo_dark</item>
-	<item name="drawable/switch_thumb_disabled_holo_light">@drawable/framework_res_switch_thumb_disabled_holo_light</item>
-	<item name="drawable/switch_thumb_holo_dark">@drawable/framework_res_switch_thumb_holo_dark</item>
-	<item name="drawable/switch_thumb_holo_light">@drawable/framework_res_switch_thumb_holo_light</item>
-	<item name="drawable/switch_thumb_pressed_holo_dark">@drawable/framework_res_switch_thumb_pressed_holo_dark</item>
-	<item name="drawable/switch_thumb_pressed_holo_light">@drawable/framework_res_switch_thumb_pressed_holo_light</item>
 	<item name="drawable/tab_focus">@drawable/framework_res_tab_focus</item>
 	<item name="drawable/tab_focus_bar_left">@drawable/framework_res_tab_focus_bar_left</item>
 	<item name="drawable/tab_focus_bar_right">@drawable/framework_res_tab_focus_bar_right</item>
