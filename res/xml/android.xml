@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<!-- xml -->
-	<item name="drawable/background_holo_light">@drawable/background_holo_light</item>
-	<item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
 	<item name="drawable/progress_horizontal">@drawable/framework_res_progress_horizontal</item>
 	<item name="drawable/progress_indeterminate_horizontal_holo">@drawable/framework_res_progress_horizontal</item>
 	<item name="drawable/progress_horizontal_holo_light">@drawable/framework_res_progress_horizontal_holo_light</item>
@@ -10,7 +8,7 @@
 	<item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
 	<item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
 	<!-- lockscreen -->
-	<item name="drawable/ic_lockscreen_alarm_activated">@drawable/framework_res_ic_lockscreen_alarm_activated</item>
+<!-- 	<item name="drawable/ic_lockscreen_alarm_activated">@drawable/framework_res_ic_lockscreen_alarm_activated</item>
 	<item name="drawable/ic_lockscreen_alarm_normal">@drawable/framework_res_ic_lockscreen_alarm_normal</item>
 	<item name="drawable/ic_lockscreen_answer_focused">@drawable/framework_res_ic_lockscreen_answer_focused</item>
 	<item name="drawable/ic_lockscreen_browser2_activated">@drawable/framework_res_ic_lockscreen_browser2_activated</item>
@@ -82,7 +80,7 @@
 	<item name="drawable/ic_lockscreen_twitter_activated">@drawable/framework_res_ic_lockscreen_twitter_activated</item>
 	<item name="drawable/ic_lockscreen_twitter_normal">@drawable/framework_res_ic_lockscreen_twitter_normal</item>
 	<item name="drawable/ic_lockscreen_unlock_activated">@drawable/framework_res_ic_lockscreen_unlock_activated</item>
-	<item name="drawable/ic_lockscreen_unlock_normal">@drawable/framework_res_ic_lockscreen_unlock_normal</item>
+	<item name="drawable/ic_lockscreen_unlock_normal">@drawable/framework_res_ic_lockscreen_unlock_normal</item> -->
 	<!-- divider -->
 	<item name="drawable/divider_strong_holo">@drawable/framework_res_divider_strong_holo</item>
 	<item name="drawable/numberpicker_selection_divider">@drawable/framework_res_numberpicker_selection_divider</item>
@@ -109,6 +107,7 @@
 	<item name="drawable/divider_vertical_holo_dark">@drawable/framework_res_divider_vertical_holo_dark</item>
 	<item name="drawable/divider_vertical_holo_light">@drawable/framework_res_divider_vertical_holo_light</item>
 	<!-- png -->
+	<item name="drawable/background_holo_dark">@drawable/framework_res_background_holo_dark</item>
 	<item name="drawable/scrubber_control_disabled_holo">@drawable/framework_res_scrubber_control_disabled_holo</item>
 	<item name="drawable/scrubber_control_focused_holo">@drawable/framework_res_scrubber_control_focused_holo</item>
 	<item name="drawable/scrubber_control_normal_holo">@drawable/framework_res_scrubber_control_normal_holo</item>
@@ -323,10 +322,10 @@
 	<item name="drawable/ic_lock_screenshot">@drawable/framework_res_ic_lock_screenshot</item>
 	<item name="drawable/ic_lock_silent_mode_off">@drawable/framework_res_ic_lock_silent_mode_off</item>
 	<item name="drawable/ic_lock_torch">@drawable/framework_res_ic_lock_torch</item>
-	<item name="drawable/ic_lockscreen_alarm">@drawable/framework_res_ic_lockscreen_alarm</item>
+<!-- 	<item name="drawable/ic_lockscreen_alarm">@drawable/framework_res_ic_lockscreen_alarm</item>
 	<item name="drawable/ic_lockscreen_email2_activated">@drawable/framework_res_ic_lockscreen_email2_activated</item>
 	<item name="drawable/ic_lockscreen_email2_normal">@drawable/framework_res_ic_lockscreen_email2_normal</item>
-	<item name="drawable/ic_lockscreen_lock_pressed">@drawable/framework_res_ic_lockscreen_lock_pressed</item>
+	<item name="drawable/ic_lockscreen_lock_pressed">@drawable/framework_res_ic_lockscreen_lock_pressed</item> -->
 	<item name="drawable/ic_lockscreen_sim">@drawable/framework_res_ic_lockscreen_sim</item>
 	<item name="drawable/ic_media_route_disabled_holo_dark">@drawable/framework_res_ic_media_route_disabled_holo_dark</item>
 	<item name="drawable/ic_media_route_off_holo_dark">@drawable/framework_res_ic_media_route_off_holo_dark</item>
