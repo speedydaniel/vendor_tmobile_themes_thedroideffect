@@ -113,7 +113,7 @@
         <item name="android:windowActionBarOverlay">true</item>
         <item name="android:actionBarStyle">@style/DialtactsActionBarStyle</item>
         <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
     </style>
     <style name="CallDetailActivityTheme1" parent="android:Theme.Holo">
