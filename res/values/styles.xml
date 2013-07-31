@@ -117,21 +117,21 @@
         <item name="android:listViewStyle">@style/ListViewStyle</item>
     </style>
     <style name="CallDetailActivityTheme1" parent="android:Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:gravity">top</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
     </style>
     <style name="DetailActivityTheme" parent="@android:style/Theme.Holo">
         <item name="android:textColorPrimary">@color/primary_text_color</item>
         <item name="android:textColorSecondary">@color/secondary_text_color</item>
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
         <item name="android:actionBarStyle">@style/ContactsActionBarStyle</item>
         <item name="android:actionBarWidgetTheme">@style/ContactsActionBarTheme</item>
         <item name="android:actionBarItemBackground">@drawable/com_android_contacts_action_bar_item_background</item>
     </style>
     <style name="EditorActivityTheme" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:textColorPrimary">@color/primary_text_color</item>
         <item name="android:textColorSecondary">@color/secondary_text_color</item>
         <item name="android:windowContentOverlay">@null</item>
@@ -141,7 +141,7 @@
         <item name="android:actionBarItemBackground">@drawable/com_android_contacts_action_bar_item_background</item>
     </style>
     <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowContentOverlay">@null</item>
@@ -149,7 +149,7 @@
         <item name="android:windowNoDisplay">true</item>
     </style>
     <style name="Theme.QuickContact" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:windowFrame">@null</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsFloating">false</item>
@@ -160,7 +160,7 @@
         <item name="android:colorBackgroundCacheHint">@null</item>
     </style>
     <style name="PeopleTheme1" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:textColorPrimary">@color/primary_text_color</item>
         <item name="android:textColorSecondary">@color/secondary_text_color</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
@@ -179,7 +179,7 @@
         <item name="android:background">@drawable/com_android_contacts_ab_dropdown_navigation_item_background</item>
     </style>
     <style name="ContactsActionBarTheme" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:dropDownListViewStyle">@style/ListViewDropdownStyle</item>
         <item name="android:textColor">@color/con_white_text</item>
         <item name="android:popupMenuStyle">@android:style/Widget.Holo.PopupMenu</item>
@@ -194,11 +194,11 @@
         <item name="android:overScrollMode">always</item>
     </style>
     <style name="ContactsPreferencesTheme" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
     </style>
     <style name="ContactListFilterTheme" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
     </style>
     <style name="CustomContactListFilterView" parent="@style/ContactListFilterTheme">
@@ -206,10 +206,10 @@
         <item name="android:layout_height">match_parent</item>
     </style>
     <style name="NonPhoneActivityTheme" parent="@android:style/Theme.Holo.Wallpaper.NoTitleBar">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
     </style>
     <style name="NonPhoneDialogTheme" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
     </style>
     <style name="ConfirmAddDetailDialogTheme" parent="@android:style/Theme.Holo.Dialog.MinWidth">
         <item name="android:windowCloseOnTouchOutside">true</item>
@@ -231,7 +231,7 @@
         <item name="android:layout_height">2.0dip</item>
     </style>
     <style name="Theme.PhotoSelector" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:windowBackground">@drawable/framework_res_background_holo_dark</item>
         <item name="android:windowFrame">@null</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
