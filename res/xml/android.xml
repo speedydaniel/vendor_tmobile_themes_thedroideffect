@@ -106,6 +106,12 @@
 	<item name="drawable/divider_vertical_holo_dark">@drawable/framework_res_divider_vertical_holo_dark</item>
 	<item name="drawable/divider_vertical_holo_light">@drawable/framework_res_divider_vertical_holo_light</item>
 	<!-- png -->
+	<item name="drawable/tab_selected_focused_holo">@drawable/framework_res_tab_selected_focused_holo</item>
+	<item name="drawable/tab_selected_holo">@drawable/framework_res_tab_selected_holo</item>
+	<item name="drawable/tab_selected_pressed_holo">@drawable/framework_res_tab_selected_pressed_holo</item>
+	<item name="drawable/tab_unselected_focused_holo">@drawable/framework_res_tab_unselected_focused_holo</item>
+	<item name="drawable/tab_unselected_holo">@drawable/framework_res_tab_unselected_holo</item>
+	<item name="drawable/tab_unselected_pressed_holo">@drawable/framework_res_tab_unselected_pressed_holo</item>
 	<item name="drawable/background_holo_dark">@drawable/framework_res_background_holo_dark</item>
 	<item name="drawable/scrubber_control_disabled_holo">@drawable/framework_res_scrubber_control_disabled_holo</item>
 	<item name="drawable/scrubber_control_focused_holo">@drawable/framework_res_scrubber_control_focused_holo</item>
