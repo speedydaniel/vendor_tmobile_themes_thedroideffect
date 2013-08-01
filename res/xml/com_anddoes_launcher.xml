@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/tab_selected_focused_holo">@drawable/tab_selected_focused_holo</item>
+    <item name="drawable/tab_selected_holo">@drawable/tab_selected_holo</item>
+    <item name="drawable/tab_selected_pressed_holo">@drawable/tab_selected_pressed_holo</item>
+    <item name="drawable/tab_unselected_focused_holo">@drawable/tab_unselected_focused_holo</item>
+    <item name="drawable/tab_unselected_holo">@drawable/tab_unselected_holo</item>
+    <item name="drawable/tab_unselected_pressed_holo">@drawable/tab_unselected_pressed_holo</item>
+</resource-redirections>
