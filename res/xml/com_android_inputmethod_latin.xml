@@ -23,6 +23,7 @@
 	<item name="drawable/keyboard_suggest_strip_holo">@drawable/com_android_inputmethod_latin_keyboard_suggest_strip_holo</item>
 	<item name="drawable/sym_keyboard_space_led_holo">@drawable/com_android_inputmethod_latin_sym_keyboard_space_led_holo</item>
 	<item name="drawable/keyboard_background_holo">@drawable/keyboard_background_holo</item>
-
+	<item name="color/key_hint_letter_color_default">@color/key_hint_letter_color_default</item>
+	<item name="color/key_hint_label_color_default">@color/key_hint_label_color_default</item>
 	<item name="color/keyHintLetterColor">@color/keyHintLetterColor</item>
 </resource-redirections>

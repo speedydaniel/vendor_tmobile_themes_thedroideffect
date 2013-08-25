@@ -8,6 +8,8 @@
 	<color name="xda_background">#ff000000</color>
 	<color name="xda_font">#ffffc355</color>
 	<color name="keyHintLetterColor">#ff3CB2F6</color>
+	<color name="key_hint_letter_color_default">#803CB2F6</color>
+    <color name="key_hint_label_color_default">#E03CB2F6</color>
 	<color name="suggestion_divider_background">#ff3CB2F6</color>
 	<color name="white">#ffffffff</color>
 	<color name="transparent">#00000000</color>

@@ -70,6 +70,4 @@
 	<item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
 	<item name="drawable/notification_bg">@drawable/com_google_android_deskclock_notification_bg</item>
-
-	
 </resource-redirections>
