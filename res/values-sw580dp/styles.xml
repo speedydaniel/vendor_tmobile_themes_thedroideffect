@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PeopleTheme1" parent="@android:style/Theme.Holo">
+        <item name="android:textColorPrimary">@color/primary_text_color</item>
+        <item name="android:textColorSecondary">@color/secondary_text_color</item>
+        <item name="android:windowBackground">@color/theme_primary</item>
+        <item name="android:listViewStyle">@style/ListViewStyle</item>
+        <item name="android:actionBarStyle">@style/ContactsActionBarStyle</item>
+        <item name="android:actionDropDownStyle">@style/ContactsActionBarDropDownStyle</item>
+        <item name="android:actionBarTabStyle">@style/ContactsActionBarTabView</item>
+        <item name="android:actionBarWidgetTheme">@style/ContactsActionBarTheme</item>
+        <item name="android:actionBarItemBackground">@drawable/com_android_contacts_action_bar_item_background</item>
+    </style>
+</resources>

@@ -91,7 +91,7 @@
 	<color name="con_contact_detail_fragment">@color/theme_primary</color>
 	
 	<color name="theme_primary">#ff000000</color>
-	<color name="theme_secondary">#ffffffff</color>
+	<color name="theme_secondary">#ff3CB2F6</color>
 	<color name="theme_secondary_offwte">#ffdddddd</color>
 	<color name="theme_secondary_bright">#ffededed</color>
 	<color name="theme_primary_dark">#ff555555</color>
@@ -121,6 +121,7 @@
     <color name="com_android_phone_dtmf_dialer_display_text">#ffffffff</color>
     <item type="color" name="com_android_phone_people_app_theme_color">@color/holo_blue_light</item>
     <color name="com_android_phone_on_hold_dim_effect">#cc000000</color>
+	<color name="selected_bg">#993CB2F6</color>
 	<!-- mms colors -->
 	<color name="com_android_mms_message_recieved">#ff3CB2F6</color>
 	<color name="com_android_mms_message_sent">#ffffffff</color>
