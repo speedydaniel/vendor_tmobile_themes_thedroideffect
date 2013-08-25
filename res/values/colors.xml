@@ -103,6 +103,24 @@
 	<color name="theme_primary_dark_smoke">#cc000000</color>
 	<color name="theme_primary_trans">#00000000</color>
 	<color name="theme_primary_dark_trans">#99555555</color>
+	<!-- dailer -->
+	<item type="color" name="com_android_dialer_smartdial_name_primary_text_color">@color/holo_blue_light</item>
+    <color name="com_android_dialer_smartdial_name_highlighted_text_color">#ffffffff</color>
+    <color name="com_android_dialer_smartdial_number_primary_text_color">#ffe4e4e4</color>
+    <color name="com_android_dialer_smartdial_number_highlighted_text_color">#ffffffff</color>
+    <color name="com_android_dialer_voicemail_playback_ui_background">#ff1f1f1f</color>
+    <color name="com_android_dialer_voicemail_playback_seek_bar_yet_to_play">#44ffffff</color>
+    <color name="com_android_dialer_voicemail_playback_seek_bar_already_played">#ccffffff</color>
+    <item type="color" name="com_android_dialer_item_selected">@color/pressed_background</item>
+	<color name="pressed_background">#883CB2F6</color>
+	<!-- phone -->
+	<color name="com_android_phone_incall_callTypeSip">#ff9EC338</color>
+    <color name="com_android_phone_incall_call_banner_background">#a0000000</color>
+    <item type="color" name="com_android_phone_incall_secondary_info_background">@color/selected_bg</item>
+    <color name="com_android_phone_incall_call_banner_text_color">#ffffffff</color>
+    <color name="com_android_phone_dtmf_dialer_display_text">#ffffffff</color>
+    <item type="color" name="com_android_phone_people_app_theme_color">@color/holo_blue_light</item>
+    <color name="com_android_phone_on_hold_dim_effect">#cc000000</color>
 	<!-- mms colors -->
 	<color name="com_android_mms_message_recieved">#ff3CB2F6</color>
 	<color name="com_android_mms_message_sent">#ffffffff</color>
